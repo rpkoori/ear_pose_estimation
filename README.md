@@ -29,4 +29,4 @@ Our code for image augmentation is [Image_Augmentation.ipynb](Image_Augmentation
 - Change json_path, save_path, img_path in [yolo.ipynb](yolo/yolo.ipynb). Run scripts to reorganize dataset to required format.
 
 ### train and validate
--Modify paths in [config.yaml](yolo/config.yaml) to self-defined path. Train models using scripts in [yolo.ipynb](yolo/yolo.ipynb).
+- Modify paths in [config.yaml](yolo/config.yaml) to self-defined path. Train models using scripts in [yolo.ipynb](yolo/yolo.ipynb).
